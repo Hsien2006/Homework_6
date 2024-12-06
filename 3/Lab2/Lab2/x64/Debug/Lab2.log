@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\CNC\Desktop\1206\3\source\main.c(126,1): warning C4716: 'newSearch': 必須傳回值
+  Lab2.vcxproj -> C:\Users\CNC\Desktop\1206\3\Lab2\x64\Debug\Lab2.exe
